@@ -3,11 +3,12 @@ python3 decision tree ID3
 参考whatbag的个人主页中决策树专栏：
 >http://whatbeg.com/2016/04/23/decisiontree.html
 
-##ID3算法介绍
+添加了阈值机制
 
 ##Dateset:  
-###西瓜.txt  
+###训练集:西瓜.txt  
 详见西瓜.txt
+###测试集
 
 ###breastcancer.txt    
 from  
