@@ -1,2 +1,2 @@
 # DecisionTree
-python3 decision tree ID3
+python3 decision tree CART
